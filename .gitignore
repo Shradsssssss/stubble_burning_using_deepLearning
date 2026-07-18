@@ -1,0 +1,10 @@
+# Ignore large datasets
+*.tif
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.h5
