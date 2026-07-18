@@ -1,0 +1,8 @@
+tensorflow
+numpy
+matplotlib
+opencv-python
+rasterio
+geopandas
+earthengine-api
+scikit-learn
